@@ -24,11 +24,11 @@ RSNA Intracranial Hemorrhage Detection (Kaggle)
 - TensorFlow / PyTorch
 
 ## Files
-- `your_notebook.ipynb` – Kaggle notebook
+- `notebook.ipynb` – Kaggle notebook
 - `README.md` – Project description
 
 ## Results
 The model was trained and evaluated on the Kaggle dataset for hemorrhage detection.
 
 ## Author
-Sahi
+Sahiti Suresh
